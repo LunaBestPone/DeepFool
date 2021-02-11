@@ -1,4 +1,4 @@
-# DeepFool papre presentation
+# DeepFool presentation
 
 #### Songlin Liu, Zihan Wang, Bingzhao Shan
 
